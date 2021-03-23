@@ -1,0 +1,15 @@
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csprojAssemblyReference.cache
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\#KULIAH\PBKK\pbkk-2\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
