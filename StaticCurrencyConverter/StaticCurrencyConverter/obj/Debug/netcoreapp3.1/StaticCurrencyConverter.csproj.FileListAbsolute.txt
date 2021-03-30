@@ -1,0 +1,15 @@
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.exe
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.deps.json
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.runtimeconfig.json
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.runtimeconfig.dev.json
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.dll
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.pdb
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csprojAssemblyReference.cache
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.Form1.resources
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csproj.GenerateResource.cache
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.AssemblyInfoInputs.cache
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.AssemblyInfo.cs
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csproj.CoreCompileInputs.cache
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.dll
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.pdb
+E:\#KULIAH\PBKK\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.genruntimeconfig.cache
